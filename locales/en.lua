@@ -12,6 +12,7 @@ Locales['en'] = {
     ['you_got'] = "You got ",
     ['wait_for_turn'] = "~o~ Wait for your turn!",
     ['point'] = " Points",
+    ['map_blip'] = "Shooting range",
 
     -- Scores
     ['show_board'] = "Press ~INPUT_PICKUP~",
